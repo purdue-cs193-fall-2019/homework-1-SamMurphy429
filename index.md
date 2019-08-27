@@ -16,9 +16,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Taught by students in CS
 - Will provide tips and info about common tools used by CS students
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
